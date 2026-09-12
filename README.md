@@ -7,6 +7,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-green.svg)](https://www.python.org/)
 [![MCP Tools](https://img.shields.io/badge/MCP_Tools-308-purple.svg)](docs/tools-reference.md)
 [![GitHub stars](https://img.shields.io/github/stars/JameZUK/Arkana?style=social)](https://github.com/JameZUK/Arkana)
+[![MCPVault: claimed](https://mcpvault.io/badge/arkana.svg?theme=dark)](https://mcpvault.io/servers/arkana/health?utm_source=external_badge&utm_medium=referral&utm_campaign=mcp_health_report)
 
 > *"Analyse asyncrat.exe and tell me what it does"*
 
